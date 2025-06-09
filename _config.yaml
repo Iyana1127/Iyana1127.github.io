@@ -1,3 +1,4 @@
 title: "Iyana web page"
+logo: /MyLogo/MyLogo.jpg
 theme: jekyll-theme-dinky
-logo: MyLogo.jpg
+logo: /assets/img/logo.png
