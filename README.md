@@ -6,9 +6,9 @@ My path is marked by the Dean’s List, Chancellor’s List, and a Cisco cyberse
 
 <img src="Zoompic.jpg" width="150px">
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Dogs and cats
+*   Snakes
+*   Turtles
 
 *   # Header 1
 
