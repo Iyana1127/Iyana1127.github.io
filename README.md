@@ -2,3 +2,5 @@
 
 <h2>About Me</h2>
 <p>My name is Iyana Jones and I am a recent graduate from Ecsu</p>
+
+<img scr="Zoom pic.jpg" width="150px">
