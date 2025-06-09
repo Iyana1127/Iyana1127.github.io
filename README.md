@@ -5,3 +5,16 @@
 My path is marked by the Dean’s List, Chancellor’s List, and a Cisco cybersecurity certification earned in 2024. At Ve-Stem, I researched and presented with clarity; at SECU, I built study plans with LittleBits Code Kit, blending tech with learning. I designed an app for low-income families at the HBCUFI Hackathon, my team’s pitch cutting through the noise. My GitHub holds my projects, proof of my craft. I seek software engineering and web development roles, not waiting for the future but building it, line by line, with grit and precision.</p>
 
 <img src="Zoompic.jpg" width="150px">
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+*   # Header 1
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
