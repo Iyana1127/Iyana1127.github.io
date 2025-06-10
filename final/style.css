@@ -1,0 +1,88 @@
+.content {
+  position: relative;
+  z-index: 1;  
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+	position: relative;
+}
+
+.search-bar {
+  text-align: center;
+  margin-top: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.search-input button{
+  padding: 5px;
+  background: none;
+  font-size: 20px;
+  border: none;
+}
+
+.search-input input{
+  flex: 1;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.search-input{
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 5px;
+}
+
+.search-input {
+    border: 1px solid #ccc;
+  }
+  
+table {
+	width: 80%;
+    margin: 20px auto;
+    border: 1px solid black;	
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 10 px;
+	text-align: center;
+}
+  
+.img-cars{
+    width:12%;
+    height:200px;
+ }
+
+.img-cars img{
+max-width:100%;
+height:auto;
+}
+
+#menu li a{
+	display:inline;
+	padding:8px 16px;
+	text-decoration:none;
+	color:red;
+	font-size:27px;
+}
+
+#menu li a.active{
+	color:#FFF;
+	background-color:#4CAF50;
+}
+
+#menu li a:hover:not(active){
+	color:#FFF;
+	background-color:#555;
+}  
+
+
