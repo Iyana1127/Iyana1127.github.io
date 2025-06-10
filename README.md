@@ -8,7 +8,7 @@ My path is marked by the Dean’s List, Chancellor’s List, and a Cisco cyberse
 
 <h3>Resume link</h3>
 
-<a href="Documents/Iyana%20Jones%20Resume%205-28-2024(1).pdf" target="_blank">Download My Document (opens in new tab)</a>
+<a href="Iyana Jones Resume 5-28-2024(1).pdf" target="_blank">Download My Document (opens in new tab)</a>
 
    <h3>EDUCATION</h3>
 *   ELIZABETH CITY STATE UNIVERSITY
