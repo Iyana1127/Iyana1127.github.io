@@ -6,15 +6,27 @@ My path is marked by the Dean’s List, Chancellor’s List, and a Cisco cyberse
 
 <img src="Zoompic.jpg" width="150px">
 
-*   Dogs and cats
-*   Snakes
-*   Turtles
+   # EDUCATION
+*   ELIZABETH CITY STATE UNIVERSITY
 
-*   # Header 1
+   ## RELEVANT COURSEWORK
+*   Programming I
+*   Programming 2
+*   Comp Sci Maj Orient Sem
+*   Precalculus
+*   Calculus
+*   Data Struct Algor Analy
+*   C++ Programming
+*   Introduction to Web Design
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+  ## HONORS & AWARDS
+*   Dean’s List Fall 2021
+*   Chancellor’s List Spring 2022
+*   Certificate of recognition from SECU
+
+
+<br>
+
+  ## EXPERIENCE
+
+
